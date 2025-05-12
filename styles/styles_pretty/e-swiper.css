@@ -62,7 +62,8 @@
 
 .elementor-element .swiper .swiper-image-stretch .swiper-slide .swiper-slide-image,
 .elementor-lightbox .swiper .swiper-image-stretch .swiper-slide .swiper-slide-image {
-    width: 100%
+    width: 100% !important;
+    height: 100% !important;
 }
 
 .elementor-element .swiper .swiper-horizontal>.swiper-pagination-bullets,

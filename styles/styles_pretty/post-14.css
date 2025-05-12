@@ -109,7 +109,7 @@
 }
 
 .elementor-14 .elementor-element.elementor-element-90b525a .elementor-counter-number-wrapper {
-    color: #1A1A1A;
+    color: #ff6247;
     font-size: 42px;
     font-weight: 700;
     line-height: 52px;
@@ -142,7 +142,7 @@
 }
 
 .elementor-14 .elementor-element.elementor-element-3b3a728 .elementor-counter-number-wrapper {
-    color: #1A1A1A;
+    color: #ff6247;
     font-size: 42px;
     font-weight: 700;
     line-height: 52px;
@@ -175,7 +175,7 @@
 }
 
 .elementor-14 .elementor-element.elementor-element-cb67713 .elementor-counter-number-wrapper {
-    color: #1A1A1A;
+    color: #ff6247;
     font-size: 42px;
     font-weight: 700;
     line-height: 52px;
@@ -199,7 +199,7 @@
 }
 
 .elementor-14 .elementor-element.elementor-element-0200464 .elementor-counter-number-wrapper {
-    color: #1A1A1A;
+    color: #ff6247;
     font-size: 42px;
     font-weight: 700;
     line-height: 52px;
@@ -833,7 +833,7 @@
 .elementor-14 .elementor-element.elementor-element-4a88c8a:not(.elementor-motion-effects-element-type-background),
 .elementor-14 .elementor-element.elementor-element-4a88c8a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: linear-gradient(0deg, #ED1584 0%, #F88025 100%);
+    background-image: linear-gradient(0deg, #ff6247 0%, #F88025 100%);
 }
 
 .elementor-14 .elementor-element.elementor-element-4a88c8a::before,
@@ -842,7 +842,7 @@
 .elementor-14 .elementor-element.elementor-element-4a88c8a>.elementor-background-slideshow::before,
 .elementor-14 .elementor-element.elementor-element-4a88c8a>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-14 .elementor-element.elementor-element-4a88c8a>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
-    background-image: url("https://ampaskyone.com/wp-content/uploads/2023/09/banner-bg.webp");
+    background-image: url("https://grandsquare.vercel.app/3.jpg");
     --background-overlay: '';
     background-position: center center;
     background-size: cover;
@@ -1095,7 +1095,7 @@ body.rtl .elementor-14 .elementor-element.elementor-element-0dd8388 {
 .elementor-14 .elementor-element.elementor-element-eeb8ea1:not(.elementor-motion-effects-element-type-background),
 .elementor-14 .elementor-element.elementor-element-eeb8ea1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: linear-gradient(180deg, var(--e-global-color-c2ef679) 0%, #ED1584 80%);
+    background-image: linear-gradient(180deg, var(--e-global-color-c2ef679) 0%, #ff6247 50%, #2b0000 80%);
 }
 
 .elementor-14 .elementor-element.elementor-element-eeb8ea1>.elementor-shape-top .elementor-shape-fill,
@@ -1186,7 +1186,7 @@ body.rtl .elementor-14 .elementor-element.elementor-element-0dd8388 {
 
 .elementor-14 .elementor-element.elementor-element-ca8c249>.elementor-shape-top .elementor-shape-fill,
 .elementor-14 .elementor-element.elementor-element-ca8c249>.e-con-inner>.elementor-shape-top .elementor-shape-fill {
-    fill: #ED1584;
+    fill: #2b0000;
 }
 
 .elementor-14 .elementor-element.elementor-element-e5bb257 {
